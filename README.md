@@ -1,4 +1,4 @@
 # hello-world
-This is a github leaning project
-Very happy to use githut as a repository of code.
-This is a very useful learning experience.
+This is a github leaning project\n
+Very happy to use githut as a repository of code.\n
+This is a very useful learning experience.\n
