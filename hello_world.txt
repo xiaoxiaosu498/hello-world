@@ -1,2 +1,4 @@
 "Hello World"
 "Hello this world"
+"I love this game!"
+"I love it very much"
